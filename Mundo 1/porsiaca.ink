@@ -1,4 +1,5 @@
 VAR ai= "Atropos"
+VAR pet="Gulliver"
 
 -> DIA_1
 
@@ -53,7 +54,7 @@ Según los cálculos de {ai}, el desplazador cuántico debía haberme dejado lo 
 
 * No muy lejos había un promontorio[...] des del que sin duda alcanzaría un mayor rango de visión, y me propuse escalarlo. Volver a correr y trepar por un espacio abierto era una sensación irresistible,
 
-** ... pero me tomé la subida con calma[...], consciente de que aún no había recuperado todas mis fuerzas tras el largo viaje a los Mundos Abandonados, y que cualquier accidente en aquel planeta desconocido podia ponerme en un grave peligro.
+** (calma)... {gritar: aunque|pero} me tomé la subida con calma[...], consciente de que aún no había recuperado todas mis fuerzas tras el largo viaje a los Mundos Abandonados, y que cualquier accidente en aquel planeta desconocido podia ponerme en un grave peligro.
 
 *** Llegué a lo alto del promontorio[...]->promontorio
 
@@ -64,7 +65,7 @@ Al final, cansada de andar vigilando mis espaldas,
 **** ... preparé una emboscada[...], escondiéndome en el interior de una grieta de la pared de roca con la esperanza de pillar por sorpresa a mi perseguidor.
 Y en efecto, pocos minutos después escuché algo pesado moviéndose entre los matojos frente a la grieta. 
 
-***** (placaje) Me abalancé sobre la fuente de los sonidos[...], pero, para mi sorpresa, no se trataba de ningún humano sinó de una criatura de aspecto inofensivo y pelaje violáceo, un color parecido al de la tierra y la arcilla de los alrededores.
+***** (placaje) Me abalancé sobre la fuente de los sonidos[...], pero, para mi sorpresa, no se trataba de ningún humano sinó de una criatura de aspecto inofensivo, de cuello alargado y pelaje violáceo, un color parecido al de la tierra y la arcilla de los alrededores.
 Mi repentina embestida debió asustarla aún más de lo que su presencia me había asustado a mí, 
 
 ****** ... pero conseguí tranquilizarla[...] mediante caricias y palabras amables. 
@@ -103,7 +104,7 @@ Desafortunadamente, el sonido de mi voz pareció surtir el efecto contrario al d
 
 **** (despistar)... traté de despistar a mi perseguidor[...] corriendo a toda velocidad cuesta arriba con la intención de dejarlo atrás y que me perdiera el rastro. 
 
-** ... y al poco rato ya estaba corriendo y brincando[...] cuesta arriba como una cabra montesa, disfrutando de mi recién recuperada libertad y riéndome a carcajadas de puro goce.
+** (atope)... y al poco rato ya estaba corriendo y brincando[...] cuesta arriba como una cabra montesa, {gritar:mi penoso debacle por la selva perfectamente olvidado.|disfrutando de mi recién recuperada libertad y riéndome a carcajadas de puro goce.}
 
 -- *** Llegué a lo alto del promontorio[...] justo cuando los dos soles de Aang se estaban poniendo, tiñendo la selva alienígena de colores verdosos y anaranjados. {despistar: Supuse que había logrado despistar a mi perseguidor, puesto que no volví a ver ni escuchar ninguna señal de su presencia, y allí me quedé;|Allí me quedé,} agotada pero satisfecha, contemplando el atardecer hasta que la última luz de los dos soles dió paso a un brillante cielo nocturno repleto de estrellas. 
 Fue entonces cuando reparé -> promontorio.atardecer
@@ -116,19 +117,54 @@ Baste decir que sí, me tropecé; sí, caí rodando por la ladera del promontori
 -> reanudar
 
 
-* Empecé a gritar a pleno pulmón[...]
+* (gritar)Empecé a gritar a pleno pulmón[...] al tiempo que deambulaba por los alrededores con la esperanza de que me escuchara algún nativo, pero no parecía haber nadie lo bastante cerca. 
+
+Tras varias horas de búsqueda infructuosa
+
+** ... acabé volviendo al punto de partida[...] sintiéndome derrotada y con las manos vacías.
+
+***Traté construir algún refugio[...] redumentario a pesar de que ya casi había anochecido, pues me negaba a dormir al descubierto en media de una selva alienígena. Y debo decir que, dada la precariedad de mis circumstancias, estoy bastante orgullosa del resultado. 
+-> DIA_2.base
+
+***Ya era demasiado tarde para construir un refugio[...], pero la temperatura seguía siendo cálida, de modo que pasé la noche allí mismo, a la intemperie, bajo el cielo repleto de estrellas de aquel lejano mundo alienígena.
+-> DIA_2.base
+
+** ... me acordé del promontorio elevado[...] que había desestimado por la mañana, pero cuyo atractivo había aumentado significativamente tras varias horas vagando perdida por la selva. 
+Como estaba decidida a no desperdiciar el día por completo, me propuse escalar el promontorio costara lo que costara, 
+*** [... aunque me tomé la subida con calma...]->calma
+*** [... y al poco rato ya estaba corriendo y brincando...]->atope
+
+** ... encontré un rastro prometedor[...]
 
 
------ (reanudar) ******* Llegué a lo alto del promontorio[...] -> promontorio
 
------ (docil) Su docilidad me hace pensar que debe descender de algun animal doméstico traído por los primeros colonos que se habrá asilvestrado con el transcurso de los milenios. 
-{not mascota: -> reanudar}
-
------ (nombremascota) <> Hola!
 
 
 - ->END
 
+-------- (reanudar) ******* Llegué a lo alto del promontorio[...] -> promontorio
+
+------ (docil) Su docilidad me hace pensar que debe descender de algun animal doméstico traído por los primeros colonos, que se habrá asilvestrado con el transcurso de los milenios. 
+{not mascota: -> reanudar| -> nombremascota}
+
+
+
+=nombremascota
+ Como es natural, tuve que ponerle un nombre a mi nueva acompañante. "¡Te llamarás... 
+
+    * "Houyhnhnm!"[]
+    ~ pet = "Houyhnhnms"
+
+    * "Piecito!"[]
+    ~ pet = "Piecito"
+   
+    * "{ai} Jr.!"[]
+    ~ pet = "{ai} Jr!"
+
+- <> proclamé triunfalmente mientras le acariciaba la cabecita. "¿A que sí? ¡¿A que sí?!" le pregunté, y ella unduló su largo cuello, aparentemente encantada. 
+"¡Vamos, {pet}, que aún tenemos mucho camino por delante!" exclamé, y ella empezó a trotar alegremente a mi lado como si me conociera de toda la vida. 
+
+* {buscarvida} Llegué a lo alto del promontorio[...] -> promontorio
 
 
 
@@ -138,10 +174,24 @@ Baste decir que sí, me tropecé; sí, caí rodando por la ladera del promontori
  -(noche) <> caída la noche, con la respiración algo agitada por la subida pero sin más percances. 
 Era una lástima no haber podido observar el territorio que me rodeaba a la luz del día, pero por suerte no tardé en reparar
 
--(atardecer) <> en las luces parpadeantes de varias hogueras aglomeradas a dos o tres quilómetros de distancia, así como en una hoguera solitaria en lo alto de la montaña, todavía más cerca. 
+-(atardecer) <> en las luces parpadeantes de varias hogueras aglomeradas a unos cuantos quilómetros de distancia, así como en una hoguera solitaria en lo alto de la siguiente montaña, que parecía encontrarse un poco más cerca. 
+
+* Pasé la noche en una cueva[...] vacía en la cima del promontorio, pues no tenía sentido arriesgarme a bajar todo el camino de noche pudiendo hacerlo a la mañana siguiente. La noche era cálida,
+
+** ... pero de todos modos hice una hoguera[...] pequeña para alumbrarme y resguardarme de los animales salvajes. 
+Así pasé mi primera noche en el planeta de Aang, alumbrada por mi pequeña hoguera bajo un cielo estrellado{nombremascota:, con mi nueva compañera {pet} acurrucada a mi lado} y preguntándome si mañana al fin conseguiría hacer contacto con los habitantes del planeta. 
+
+** ... por lo que dormí a la intemperie[...] en un lecho de azuladas hojas gigantes que recolecté por los alrededores.
+Así pasé mi primera noche en el planeta de Aang, entre hojas bajo un cielo tan repleto de estrellas que apenas podía distinguirlas unas de otras,{nombremascota: con mi nueva compañera {pet} acurrucada a mi lado} y preguntándome si mañana al fin conseguiría hacer contacto con los habitantes del planeta. 
+
+* Me dirigí hacia la hoguera más cercana[...] 
+
+* Emprendí el trayecto hacia el grupo de hogueras[...] lejanas a pesar de que ya había caído la noche, demasiado emocionada por hacer contacto con los nativos como para pensar demasiado en las consecuencias... y, como no podia ser de otra forma, acabé extraviándome por la selva. 
+
+
+
 
 - ->END
-
 
 
 
@@ -161,28 +211,48 @@ La madera de la vegetación era flexible pero fuerte, y en pocas horas había te
 
 
 =criatura
-Tenía el tamaño de un perro grande, con el pelaje del mismo color entre marrón y violáceo que la tierra y arcilla de los alrededores, y parecía observar mi charco de vómito con genuina curiosidad, la cabeza ligeramente inclinada y una oreja más levantada que la otra. 
+Tenía el tamaño de un perro grande, con el pelaje del mismo color entre marrón y violáceo que la tierra y arcilla de los alrededores, y parecía observar mi charco de vómito con genuina curiosidad, su largo cuello ligeramente inclinado y con una oreja más levantada que la otra. 
 
 * No sabía si era peligroso
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - ->END
+
+
+
+
+
+===DIA_2
+
+=base
+
+HOLA
+
+-> END
+
+
+=cima
+
+HOLA
+
+-> END
+
+
+
+=casa
+
+HOLA
+
+-> END
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,4 +1,5 @@
 VAR ai= "Atropos"
+VAR pet="Gulliver"
 
 -> DIA_1
 
@@ -64,7 +65,7 @@ Al final, cansada de andar vigilando mis espaldas,
 **** ... preparé una emboscada[...], escondiéndome en el interior de una grieta de la pared de roca con la esperanza de pillar por sorpresa a mi perseguidor.
 Y en efecto, pocos minutos después escuché algo pesado moviéndose entre los matojos frente a la grieta. 
 
-***** (placaje) Me abalancé sobre la fuente de los sonidos[...], pero, para mi sorpresa, no se trataba de ningún humano sinó de una criatura de aspecto inofensivo y pelaje violáceo, un color parecido al de la tierra y la arcilla de los alrededores.
+***** (placaje) Me abalancé sobre la fuente de los sonidos[...], pero, para mi sorpresa, no se trataba de ningún humano sinó de una criatura de aspecto inofensivo, de cuello alargado y pelaje violáceo, un color parecido al de la tierra y la arcilla de los alrededores.
 Mi repentina embestida debió asustarla aún más de lo que su presencia me había asustado a mí, 
 
 ****** ... pero conseguí tranquilizarla[...] mediante caricias y palabras amables. 
@@ -118,13 +119,25 @@ Baste decir que sí, me tropecé; sí, caí rodando por la ladera del promontori
 
 * Empecé a gritar a pleno pulmón[...]
 
+-------- (reanudar) ******* Llegué a lo alto del promontorio[...] -> promontorio
 
------ (reanudar) ******* Llegué a lo alto del promontorio[...] -> promontorio
+------ (docil) Su docilidad me hace pensar que debe descender de algun animal doméstico traído por los primeros colonos, que se habrá asilvestrado con el transcurso de los milenios. 
+{not mascota: -> reanudar| -> nombremascota}
 
------ (docil) Su docilidad me hace pensar que debe descender de algun animal doméstico traído por los primeros colonos que se habrá asilvestrado con el transcurso de los milenios. 
-{not mascota: -> reanudar}
 
------ (nombremascota) <> Hola!
+=nombremascota
+ Como es natural, tuve que ponerle un nombre a mi nueva acompañante. "Te llamarás... 
+
+    * ¡Gulliver!"[]
+    ~ pet = "Gulliver"
+
+    * "¡Piecito!"[]
+    ~ pet = "Piecito"
+   
+    * "¡{ai} Jr.!"[]
+    ~ pet = "{ai} Jr!"
+
+- <> proclamé triunfalmente. 
 
 
 - ->END
