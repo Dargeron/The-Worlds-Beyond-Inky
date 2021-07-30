@@ -13,8 +13,7 @@ Mi primera vivencia nada más pisar el planeta de Aang, tras más de medio año 
 ** ... a huevo podrido[...] 
 -- <> que lo permeaba todo y que, sumada a la multitud de formas y colores propios de la selva, tuvo el efecto inmediato de que la cabeza me empezase a dar vueltas incontrolablemente. 
 
-* ... el desplazador cuántico[...] de la nave, que me permitió llegar al planeta en cuestión de segundos y me recogerá llegado el momento.  
-
+caca
 ** No entendí ni una palabra[...] de la explicación del técnico de la Agencia que trató de hacerme entender su funcionamiento: algo sobre funciones de onda, decoherencia cuántica y conos de vacío. En fin, lo importante es que estoy aquí de una pieza. 
 
 ** Nunca lo había utilizado[...] anteriormente, ni en la nave ni en mi mundo natal, y lo cierto es que es una experiencia
