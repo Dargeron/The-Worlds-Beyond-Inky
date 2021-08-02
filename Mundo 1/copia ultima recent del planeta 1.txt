@@ -130,7 +130,7 @@ Tras varias horas de búsqueda infructuosa
 
 ***Ya era demasiado tarde para construir un refugio[...], pero la temperatura seguía siendo cálida, de modo que pasé la noche allí mismo, a la intemperie, bajo el cielo repleto de estrellas de aquel lejano mundo alienígena.
 ~ day = day + 1
--> DESPERTAR.base
+-> DESPERTAR.basemal
 
 ** ... me acordé del promontorio elevado[...] que había desestimado por la mañana, pero cuyo atractivo había aumentado significativamente tras varias horas vagando perdida por la selva. 
 Como estaba decidida a no desperdiciar el día por completo, me propuse escalar el promontorio costara lo que costara, 
@@ -152,7 +152,7 @@ Al cabo de poco me encontraba en el esponjoso lecho de musgo azulado que había 
 -else: 
 Regresé al claro donde me había materializado el desplazador cuántico, preparé un refugio improvisado con algunas hojas cercanas, y me quedé dormida al instante tras todo el día trotando arriba y abajo por la selva. 
 ~ day = day + 1
--> DESPERTAR.base
+-> DESPERTAR.basemal
 }
 
 *** ... pero yo seguí adelante[...], impertérrita. Si no era capaz lidiar con algún que otro contratiempo, como atravesar una selva aterradora en un planeta alienígena desconocido en mitad de la noche, ¿se puede saber qué hacía a solas intentando contactar con civilizaciones perdidas en la espiral más remota de la galaxia?
@@ -233,17 +233,17 @@ De un modo u otro di con un rastro que parecía humano y que subía por la monta
 * Emprendí el trayecto hacia el grupo de hogueras[...] lejanas a pesar de que ya había caído la noche, demasiado emocionada ante la posibilidad de establecer contacto con los nativos como para pensar demasiado en las consecuencias... hasta que, dos horas más tarde, no me quedó más remedio que aceptar que me había extraviado por completo. 
 Completamente exhausta y desorientada,
 
-** ... traté de regresar a la cima[...] del promontorio siguiendo mi propio rastro a la inversa, cosa que sorprendentemente funcionó, aunque
+** ... traté de regresar a la cima[...] del promontorio siguiendo mi propio rastro a la inversa, cosa que sorprendentemente funcionó, aunque no sin antes
 
-*** ... me caí en una charca[...] de lodo apestoso que había en el interior de una zanja. Lo cierto es que a aquellas alturas ya solo quería dormir, y apenas me importó, aunque no sabía si los nativos me aceptarían con los brazos abiertos ahora que olía  a mofeta muerta.  
+*** ... caer en una charca[...] de lodo apestoso que había en el interior de una zanja. Lo cierto es que a aquellas alturas ya solo quería dormir y apenas me importó, aunque no puedo evitar preguntarme si los nativos me aceptarán con la misma facilidad ahora que huelo  a mofeta muerta.  
 ~ day = day + 1
 -> DESPERTAR.cimamal
 
-*** ... me atacó una especie de mapache[...] al que debí asustar en su nido, y al que sospecho que solo conseguí sobrevivir gracias a la oportuna aparición de un palo de metro y medio, que blandí aterrorizada a pesar de que el "mapache" medía cinco veces menos que yo. Los mundos alienígenas son aterradores. 
+*** ... ser atacada por una especie de mapache[...] al que debí asustar en su nido, y cuyo ataque solo logré sobrevivir gracias a la oportuna aparición de un palo de metro y medio, que blandí aterrorizada mientras entonaba cánticos vikingos de tránsito al valhalla a pesar de que el "mapache" medía cinco veces menos que yo. Los mundos alienígenas son aterradores. 
 ~ day = day + 1
 -> DESPERTAR.cimamal
 
-*** ... volví a perderme[...] tres o cuatro veces más. Lección aprendida, Iris: a partir de hoy, se acabó deambular de noche por selvas tenebrosas en planetas alienígenas desconocidos. 
+*** ... volver a perderme[...] tres o cuatro veces más. Lección aprendida, Iris: a partir de hoy, se acabó deambular de noche por selvas tenebrosas en planetas alienígenas desconocidos. 
 ~ day = day + 1
 -> DESPERTAR.cimamal
 
@@ -260,12 +260,12 @@ me había materializado aquella mañana. Juro que nunca me había alegrado tanto
 -else: 
 <>me había materializado aquella mañana, donde me preparé un lecho de hojas improvisado y caí rendida, agradecida de poder descansar aunque fuera unas horas.
 ~ day = day + 1
--> DESPERTAR.base
+-> DESPERTAR.basemal
 }
 ** ... seguí abriéndome camino[...] selva adentro a pesar de encontrarme totalmente extraviada, hasta que finalmente tuve que reconocer que ya no tenía sentido seguir adelante, más que nada porque ya no tenía la menor idea de qué dirección era "adelante". 
 Demasiado agotada para seguir pensando después de todo el día de actividad, me envolví en una de las gigantes hojas azuladas que producían las palmeras locales, y caí rendida allí mismo, en medio de la selva, {nombremascota: con la única compañía de {pet}, acurrucada fielmente a mi lado}. 
 ~ day = day + 1
--> DESPERTAR.selva
+-> DESPERTAR.selvasalvaje
 
 - ->END
 
@@ -323,11 +323,11 @@ No me quedó más remedio que marcharme por donde había venido y pasar la noche
 *** ... me senté en silencio en su hoguera[...] y él, también sin decir palabra, me pasó un cuenco con lo que parecía ser una especie de pasta confeccionada a partir de alguna fruta local. 
 Al cabo de un rato {desastre:empezó a cantar suavemente|empezó a cantar la misma dulce canción de antes}, y yo, agotada como estaba por las actividades del día, no pude evitar irme adormilando poco a poco hasta que se me cerraron por completo los ojos y acabé quedando inconsciente.
 ~ day = day + 1
--> DESPERTAR.cabana
+-> NATIVO.primeranoche
 
 --- (todobien)***Acabé callándome por completo[...], y vi como poco a poco se iba relajando hasta que, siempre sin decir palabra, me pasó un cuenco con lo que parecía ser una especie de pasta confeccionada a partir de alguna fruta local. Al cabo de un rato {desastre:empezó a cantar suavemente|empezó a cantar la misma dulce canción de antes}, y yo, agotada como estaba por las actividades del día, no pude evitar irme adormilando poco a poco hasta que se me cerraron por completo los ojos y acabé quedando inconsciente.
 ~ day = day + 1
--> DESPERTAR.cabana
+-> NATIVO.primeranoche
 
 *** Le pregunté por algún poblado cercano[...] en un último intento de sacarle alguna información útil, pero, por lo visto, aquello fue la gota que colmó el vaso en mi lista de terribles e incomprensibles ofensas. 
 Mi huésped se levantó y, visiblemente alterado, me dirigió la palabra por primera y última vez: "¡Vete, demonio, no tienes poder sobre mí!", profirió, casi como un encantamiento. 
@@ -446,13 +446,12 @@ Pasé varias horas deambulando por la selva y familiarizándome con la flora y l
 *** ... cayó la noche y regresé[...] a mi refugio cargada de frutas exóticas que había recolectado durante el día.
 Pasé la noche en el esponjoso lecho de musgo que había confeccionado con esmero en el interior de la {shelter}, observando el cielo estrellado {subterranea:a través del periscopio con acceso al exterior que había instalado al lado de mi cama}{casita:desde la atalaya de vigilancia, confeccionada a base de lianas, que había construido en lo alto para poder contemplar las estrellas y rebotar al mismo tiempo.}{cabana:el agujero central en el techo de la cabaña, especialmente diseñado para poder encender hogueras en el interior en los días de lluvia}.
 Lo cierto es que, para ser mi primer día en un planeta alienígena desconocido, tampoco me las estaba arreglado tan mal. 
--> DESPERTAR.basebien-> DESPERTAR.basebien
+~ day = day + 1
+-> DESPERTAR.basebien
 
 *** [... encontré un rastro prometedor...] -> rastro
 
 - ->END
-
-
 
 
 
@@ -487,13 +486,13 @@ Traté de indicarle a {pet} que teníamos que despedirnos, pero en cuanto vió q
 
 ***... oscura madriguera[...] que se internaba en las profundidades subterráneas, donde finalmente comprendí la razón por la que mi amiga había insistido tanto en traerme hasta allí. ¡Sus crías la estaban esperando en el interior! 
 
-----(madriguera) **** Mi especialidad no es la biología, pero[...] sospecho que la fauna de Aang debe tener un sistema reproductivo de lo más interesante, porque en el interior de la madriguera me encontré a dos adultas más cuidando de las crías como si fueran suyas. Las dos fueron a saludar a {pet} con evidente alegría, y, al ver que ella no me tenía ningún miedo, también se dejaron acariciar por mí. -> madriguera
+----(madriguera) **** Mi especialidad no es la biología, pero[...] sospecho que la fauna de Aang debe tener un sistema reproductivo de lo más interesante, pues en el interior de la madriguera me encontré a dos adultas más cuidando de las crías como si fueran suyas. Las dos fueron a saludar a {pet} con evidente alegría, y, al ver que ella no me tenía ningún miedo, también se dejaron acariciar por mí. -> madriguera
 
 **** Me pasé el resto del día jugando con {pet} y sus crías[...] sin ninguna preocupación en el mundo. Es esperanzadora la facilidad con la que seres vivos de especies y planetas distintos pueden establecer contacto y coexistir nada más conocerse, sin nada más que unos pocos elementos de comunicación en común. 
 Cuando me di cuenta que estaba empezando a anochecer, 
 
 ----- (manada) ***** ... supe que había llegado la hora de volver[...] al claro donde me había materializado por la mañana. Según las indicaciones de {ai}, los nativos no debían hallarse a más de tres o cuatro quilómetros de aquél punto, por lo que no parecía sensato alejarme excesivamente de allí.  
-{pet} parecía decidida a acompañarme, y juntas desandamos el camino hasta el claro y, al llegar allí, nos acurrucamos en una pila de hojas que encontré y nos dormimos al momento después de todo un día de juegos. -> DESPERTAR.base
+{pet} parecía decidida a acompañarme, y juntas desandamos el camino hasta el claro y, al llegar allí, nos acurrucamos en una pila de hojas que encontré y nos dormimos al momento después de todo un día de juegos. -> DESPERTAR.basemal
 
 ***** ... decidí quedarme a dormir con {pet} y su familia.[] Al fin y al cabo, a aquellas horas ya no me daría tiempo a construir ninguna clase de refugio, y estaría más a salvo aquí con su familia que en el claro a solas... 
 Por no mencionar, claro está, que no hay nada como dormir entre una manada de suaves pelambreras violáceas. -> DESPERTAR.manada
@@ -502,7 +501,7 @@ Por no mencionar, claro está, que no hay nada como dormir entre una manada de s
 Traté de indicarle a {pet} que teníamos que despedirnos, pero en cuanto vió que me alejaba de la laguna volvió corriendo hasta mí y se puso a trotar alegremente a mi lado en dirección al claro donde había aterrizado por la mañana. 
 "¿Parece que no voy a librarme de ti tan fácilmente, eh?" le dije con una sonrisa. "Bueno, pues que sepas que tenemos trabajo que hacer...", añadí, y con esas palabras
 
-** Pero sabía que no podía pasarme el día jugando[...] con el primer animalito que me encontrase, por adorable que fuera, con lo que en lugar de seguirla resolví llevarla conmigo mientras me encargaba de mis tareas. 
+** Pero sabía que no podía pasarme el día jugando[...] con el primer animalito que me encontrase, por muy adorable que fuese, con lo que en lugar de seguirla resolví llevarla conmigo mientras me encargaba de mis tareas. 
 Decidida a hacer algo productivo, 
 
 * Traté de ahuyentarla[...] con gritos y aspavientos exagerados, y, aunque no fue tarea fácil, al final conseguí que aquella extraña criatura se alejara del claro donde acababa de materializarme.
@@ -515,9 +514,16 @@ Decidida a hacer algo productivo,
 
 
 
+################################################################
+################################################################
+
+
+
+
+
 ===DESPERTAR
 
-=base
+=basemal
 
 En la base y rebentada
 
@@ -531,64 +537,152 @@ En la base con un bonito refugio
 -> END
 
 
+
+
+
+
+
 =cimamal
 
-Durante el día de ayer caminé y trabajé tantas horas, que esta mañana me he levantado con todo el cuerpo lleno de agujetas, arañazos y magulladuras en las que ni siquiera había reparado al irme a dormir. -> cimabien.cimacomun
+Durante el día de ayer caminé y trabajé tantas horas que esta mañana me he levantado con todo el cuerpo lleno de agujetas, arañazos y magulladuras en las que ni siquiera había reparado al irme a dormir... por no mencionar un atroz dolor de espalda fruto de dormir en el suelo raso. 
+-> cimabien.cimacomun
 
 =cimabien
 
-Desperté en lo alto de la cima sorprendentemente descansada {LLEGADA.nombremascota: y abrazada al cuello de {pet}}
+Desperté en mi campamento improvisado en la cima del promontorio
+* ... sorprendentemente descansada[...] {LLEGADA.nombremascota:y abrazada al cuello de {pet}|considerando que había dormido en un lecho de hojas en una cueva}. 
 
--(cimacomun) 
+* ... con un atroz dolor de espalda.[] Supongo que aún tengo que acostumbrarme a dormir a la intemperie sin nada más que unas cuantas hojas entre el suelo y yo{LLEGADA.nombremascota:, aunque al menos agradecí la renconfortante presencia de {pet}, con su cuello enroscado a mi alrededor|.}
 
--> END
+- (cimacomun) La luz de los dos soles de Aang se filtraba por la entrada de la cueva{cimamal: donde había acabado pernoctando}, iluminando... 
 
+* ... un túnel oscuro[...] que se adentraba hacia interior de la cueva, y que me había pasado totalmente desapercibido la noche anterior.
 
+** ¡Tenía que explorarlo[!] de inmediato, por supuesto! Confeccioné
 
+*** una antorcha improvisada[...] untando unas plantas locales parecidas a totoras en resina de árbol con el fin de alumbrar la oscuridad del interior, 
 
+*** una cuerda de escalada[...] trenzando las resistentes lianas de un árbol cercano, 
 
-
--> END
-
-
-
-=casa
-
-HOLA
-
--> END
+--- <> ¡y me embarqué en mi valeroso descenso hacia las profundidades de Aang!
+# exploracion de las profundidades, estalactitas, etc
 
 
 
-=selva
+** No le di mucha importancia[...], pues, al fin y al cabo, podía no conducir a ningún lugar en concreto, -> exterior
 
-la despierta alguna cosa rara por la noche
+* ... unas huellas claramente humanas[...], bastante más grandes que las mías, que me habían pasado totalmente desapercibidas la noche anterior. Provenían de la entrada de la cueva y rodeaban cuidadosamente mi hoguera, acercándose hasta mi lecho de hojas antes de regresar de nuevo a la entrada. 
 
--> END
+** Tenía que seguir las huellas[...] a toda costa, pues en este momento constituían el camino más directo hacia los nativos. Más aún teniendo en cuenta que el modo como rodeaban mi hoguera indicaba que tenían que haberse originado la noche anterior: ¡alguien había estado en mi campamento mientras dormía y luego se había marchado sin que yo me diera cuenta!
+
+Las huellas me llevaron hasta un caudaloso río que discurría por el interior de la selva, donde desaparecían por completo. 
+
+*** Remonté el curso del río[...], puesto que # sigue el curso hacia el poblado
+
+*** Seguí el curso del río[...], puesto que  # llega a la laguna y se encuentra con los humanos cazando
+
+*** "{pet}, rastrea!"[] le ordené con entusiasmo a mi compañera a pesar de no tener el menor conocimiento acerca sus capacidades olfativas. Pero lo cierto es que, me hubiera comprendido o no, mi grito pareció propulsarla hacia el interior de la selva, y no me quedó más remedio que seguirla corriendo tan rápido como me lo permitían los matojos y las lianas del camino. # llega a la laguna y se encuentra con los humanos cazando
 
 
-=selvacabana
+** No les di mucha importancia[...], pues, al fin y al cabo, aquellas huellas podían llevar a cualquier parte, 
 
-normal: la despierta el nativo
+-- (exterior)<> y yo ya había divisado dos señales inconfundibles de actividad humana la noche anterior. 
+Nada más salir al exterior, respiré una profunda bocanada de fresco aire matutino, desayuné algunas bayas silvestres que había recolectado el día anterior y emprendí el camino hacia
+ 
+** ... el grupo grande de hogueras[...] que había observado la noche anterior. Menos mal que me había cuidado de recordar su localización, cerca de un remanso del río que discurría por un valle cercano, porque de día no se observaba ningún rastro de las hogueras. # llega al poblado, muchos están de cacería
+
+** ... la hoguera solitaria[...] que había observado la noche anterior. Menos mal que me había cuidado de recordar su localización, cerca de un remanso del río que discurría por un valle cercano, porque de día no se observaba ningún rastro de la hoguera. #llega con el hombre en la cabaña de día
+
+- -> END
 
 
--> END
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 =selvacabanaliada
+-> selvasalvaje
 
-marxar de la cabana del nativo
-si DIA_1.promontorio, anar al poble
+=selvacabana
 
--> END
+Me desperté de madrugada con la sensación de estar siendo observada, y al mirar a mi alrededor descubrí, con un sobresalto, que había un nativo observándome. Creía que había encontrado un buen escondite para pasar la noche desapercibidamente, pero resultaba evidente que había subestimado la perspicacia de los nativos. 
+
+Al ver que había abierto los ojos, el nativo dió media vuelta y desapareció entre la maleza sin decir palabra. 
+
+* Lo seguí tan deprisa como pude[...] a través de la maleza, pero era mucho más rápido que yo y pronto lo perdí de vista. 
+
+* "¡Oiga! ¡Oiga![]", vociferé indignada, pero no obtuve ningún tipo de respuesta. ¿Cómo se atrevía a dejarme plantada de esa manera? 
+
+* Me quedé petrificada[...] por la sorpresa, incapaz de reaccionar a tiempo hasta pasados unos minutos. ¡Por fin había encontrado a un habitante de Aang!
+
+- Tal vez era el momento de hacer una pausa y reflexionar sobre mis circumstancias. Lo cierto era que me sentía algo desmoralizada después de pasar la noche a solas en una selva desconocida, y haber fracasado en mi primera oportunidad de establecer contacto con un nativo tampoco me había subido la moral precisamente. 
+* Pero no podía darme por vencida[] tan fácilmente, eso estaba claro. Mi única opción era
+
+** ... seguir su rastro[...] por la selva. No era ninguna experta, pero el nativo acababa de pasar por allí a gran velocidad: tenía que ser capaz de encontrarle. 
+->NATIVO.rastro
+
+{LLEGADA.promontorio} **  ... tratar de localizar a los otros[...] nativos, el grupo grande de hogueras aglomeradas. Aún recordaba la ubicación aproximada de las hogueras, y ahora que era de día debería resultarme más fácil la travesía hasta allí. 
+-> POBLADO.hoguera
+
+* Tal vez sería mejor regresar a la nave[...], aunque hacerlo implicase volver con las manos vacías. Tal vez sencillamente no estaba hecha para esta misión: la selva, la soledad, el peligro... no podía soportarlo. Lo mejor sería hablar con la Agencia y explicarles que el viaje había sido un fracaso. 
+-> NAVE
+
+
+- -> END
 
 
 
-=cabana
 
-duerme en la cabaña del nativo
+=selvasalvaje
 
--> END
+Desperté en mitad de la noche con una extraña sensación de alarma. Tras unos segundos de silencio, con el corazón latiéndome a toda velocidad, 
+
+* ... escuché[...] una respiración lenta, profunda y pesada, definitivamente inhumana, provinente de algún lugar cercano situado a mi izquierda. 
+
+** Giré la cabeza[...] y la vi, una inmensa criatura alienígena, rodeándome con deliberada lentitud. 
+** (inmobil) Permanecí inmóbil[...], sin atreverme a hacer el más mínimo movimiento, y al cabo de poco la criatura avanzó hasta colocarse justo en frente mío. 
+
+-- ** Medía más de cuatro metros[...] de altura, y no pude evitar sentirme frágil e insignificante ante aquel coloso alienígena. 
+
+** Era bípeda y peluda[...], con una constitución parecida a la de un perezoso gigante y terrorífico. 
+
+** Sus brazos tenían <i>tres</i> codos[...], pudiendo así doblarse sobre sí mismos tres veces. ¿Quién sabe qué siniestra ventaja evolutiva le aportarían los dos codos adicionales?
+
+* ... vislumbré[...] una silueta inmensa, definitivamente no humana, recortándose contra el cielo estrellado. 
+
+** Me incorporé[...] lo más sigilosamente que pude, preparándome para escapar, cuando...
+
+*** la criatura giró bruscamente la cabeza[...] hacia mí, y supe que me había descubierto. 
+
+*** escuché una tercera respiración[...] a mis espaldas, y supe que la criatura no estaba sola. 
+
+** Permanecí inmóbil[...] -> inmobil
+
+- * Huí presa del pánico[...] 
+* Me quedé paralizada[...] 
+* Alargué la mano[...] hacia la criatura
+
+- -> END
+
+
+
+
+
+
+
+
+
 
 
 
@@ -601,4 +695,99 @@ duerme con la manada de Piecito.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===CACERIA
+
+
+- -> END
+
+
+
+
+
+
+
+
+
+
+
+
+
+===NAVE
+Iris regresa a la nave. 
+
+- -> END
+
+
+
+
+
+
+
+
+
+
+
+=== POBLADO
+=rastro
+Iris llega al poblado siguiendo un rastro
+- ->END
+
+
+
+=hoguera
+Iris llega al poblado por la ubicación de las hogueras
+- ->END
+
+- ->END
+
+
+
+
+
+
+
+
+
+
+
+
+===NATIVO
+
+=rastro
+Iris llega al río siguiendo un rastro
+- ->END
+
+
+
+
+
+=hoguera
+Iris llega a la cabaña, la encuentra vacía y de allí escucha música en el río (o la pillan dentro).
+- ->END
+
+
+
+
+
+=primeranoche
+Iris pasa la primera noche en la cabaña.
+- ->END
 
