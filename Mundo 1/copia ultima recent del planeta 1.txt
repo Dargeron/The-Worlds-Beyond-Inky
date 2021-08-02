@@ -7,13 +7,13 @@ VAR shelter=""
 
 === LLEGADA
 
-Mi primera vivencia nada más pisar el planeta de Aang, tras más de medio año encerrada a bordo de una nave diminuta, ha sido un explosivo ataque de vómito. La culpa la tuvo, sin duda,
+Mi primera vivencia nada más pisar el planeta de Aang, tras más de medio año encerrada a bordo de una nave diminuta, fue un explosivo ataque de vómito. La culpa la tuvo, sin duda,
 
 * ... la desorientadora mezcla de olores y colores[...] del planeta. Su densa vegetación azulada emitía una potente fragancia
 ** ... dulzona[...]
 ** ... acre[...]
 ** ... a huevo podrido[...] 
--- <> que lo permeaba todo y que, sumada a la multitud de formas y colores propios de la selva, tuvo el efecto inmediato de que la cabeza me empezase a dar vueltas incontrolablemente. 
+-- <> que lo permeaba todo y que, sumada a la multitud de formas y colores propios de la selva, tuvo el efecto inmediato de que mi visión empezase a dar vueltas incontrolablemente. 
 
 * ... el desplazador cuántico[...] de la nave, que me permitió llegar al planeta en cuestión de segundos y me recogerá llegado el momento.  
 
@@ -29,7 +29,7 @@ Mi primera vivencia nada más pisar el planeta de Aang, tras más de medio año 
 ** Sospecho que fue otra de sus trastadas[...], como la vez en que me hizo creer que había habido un fallo en el motor de fusión y teníamos que recolectar isótopos de deuterio de un asteroide cercano para repararlo. No fue hasta que ya me encontraba fuera de la nave tratando de aclararme con los propulsores del traje de evacuación que empecé a escuchar sus carcajadas por el canal de radio. 
 Esta vez juro que a mi retorno a la nave me vengaré como es debido: le... 
 
-*** ... desactivaré los sensores electromagnéticos[...] durante una semana, cosa que por alguna razón incomprensible le incomoda profundamente.  
+*** ... desactivaré los sensores electromagnéticos[...] durante una semana, cosa que por alguna razón siempre parece incomodarla y avergonzarla profundamente.  
 
 *** ... volveré a reconfigurar el arquetipo linguístico[...] a "capitán pirata del siglo XVI". Aún se me saltan las lágrimas cuando me acuerdo de la última vez. #poner chiste?
 
@@ -41,7 +41,7 @@ Esta vez juro que a mi retorno a la nave me vengaré como es debido: le...
 
 - (inicio) * ... me dispuse a examinar los alrededores[...] de mi lugar de aterrizaje en busca de señales de vida inteligente. ->buscarvida
 
-* ... empecé a preparar un refugio[...] improvisado tal como había practicado innumerables veces en mis entrenamientos. ->refugio
+* ... empecé a preparar un refugio[...] improvisado, tal como había ensayado innumerables veces en mis preparativos para el viaje. ->refugio
 
 * ... levanté la mirada y me encontré cara a cara[...] con una criatura de lo más peculiar observándome. 
 ->criatura
@@ -113,12 +113,13 @@ Fue entonces cuando reparé -> promontorio.atardecer
 *** La pendiente era bastante escarpada[...] y subirla a tanta velocidad no era tarea fácil, especialmente tras meses encerrada entre cuatro paredes, pero llegué a la cima sin nada más que unos cuantos arañazos y magulladuras{despistar:, y ni rastro de mi misterioso perseguidor|}.
 Allí me quedé, agotada pero satisfecha, contemplando el atardecer hasta que la última luz de los dos soles dió paso a un brillante cielo nocturno repleto de estrellas. Fue entonces cuando reparé -> promontorio.atardecer
 
-*** Me siento tentada a omitir[...] mi ridícula caída por la pendiente, pero, dado que este es mi diario de campo, debo comprometerme a contar cada detalle de mi historia aún a riesgo de convertirme en el hazmerreír de innumerables estudiantes de antropología del futuro. 
-Baste decir que sí, me tropecé; sí, caí rodando por la ladera del promontorio con mi ropa echa girones y mis escasas pertenencias esparcidas por la selva. Pero al menos no me rompí ningún hueso ni me lesioné de forma permanente, que es lo que importa.{despistar:.. por no mencionar que mi astuta maniobra de distracción sirvió para dejar atrás a mi misterioso perseguidor, del que ya no volví a encontrar ni rastro. Justo como lo planeé.} 
+*** Me siento tentada a omitir[...] mi lamentable caída por la pendiente, pero, dado que este es mi diario de campo, debo comprometerme a transcribir cada detalle de mis experiencias aún a riesgo de convertirme en el hazmerreír de los innumerables estudiantes de antropología del futuro. 
+Baste decir que sí, me tropecé; sí, caí rodando por la ladera del promontorio; sí, acabé con mi ropa echa girones y mis escasas pertenencias esparcidas por la selva. Pero miremos el lado positivo: por lo menos no me rompí ningún hueso ni me lesioné de forma permanente a pesar de que la gravedad de Aang es un 30% superior a la de mi planeta natal. Si esto no es buena suerte, ¿qué es? {despistar:.. por no mencionar que mi astuta maniobra de distracción sirvió para dejar atrás a mi misterioso perseguidor, del que ya no volví a encontrar ni rastro. Justo como lo planeé.} 
 -> reanudar
 
 
-* (gritar)Empecé a gritar a pleno pulmón[...] al tiempo que deambulaba por los alrededores con la esperanza de que me escuchara algún nativo, pero no parecía haber nadie lo bastante cerca. 
+* (gritar)Empecé a gritar a pleno pulmón[...] al tiempo que deambulaba por los alrededores, convencida de que la mejor estrategia es siempre la más directa, pero, inexplicablemente, no parecía haber ningún nativo lo bastante cerca para escucharme. 
+La posibilidad de que sí me hubieran escuchado, pero hubieran huido despavoridos ante mis alaridos, me pareció demasiado irrisoria para ni siquiera tenerla en cuenta. 
 Tras varias horas de búsqueda infructuosa
 
 ** ... acabé volviendo al punto de partida[...] con las manos vacías y sintiéndome derrotada.
@@ -154,8 +155,8 @@ Regresé al claro donde me había materializado el desplazador cuántico, prepar
 -> DESPERTAR.base
 }
 
-*** ... pero yo seguí adelante[...], impertérrita. Si no podía lidiar con algún pequeño inconveniente, ¿entonces se puede saber qué hacía a solas en medio de la selva de un planeta alienígena en la parte más de remota de la galaxia?
-Debía llevar unas de dos horas subiendo montaña arriba cuando distinguí el resplandor de una hoguera lejana, lo cual sólo podía significar una cosa: ¡mi primer contacto con nativos!
+*** ... pero yo seguí adelante[...], impertérrita. Si no era capaz lidiar con algún que otro contratiempo, como atravesar una selva aterradora en un planeta alienígena desconocido en mitad de la noche, ¿se puede saber qué hacía a solas intentando contactar con civilizaciones perdidas en la espiral más remota de la galaxia?
+Debía llevar unas dos horas subiendo montaña arriba cuando distinguí el resplandor de una hoguera lejana, lo cual sólo podía significar una cosa: ¡mi primer contacto con nativos!
 -> cabananoche
 
 -------- (reanudar) ******* Llegué a lo alto del promontorio[...] -> promontorio
@@ -180,12 +181,12 @@ Debía llevar unas de dos horas subiendo montaña arriba cuando distinguí el re
     * "Piecito!"[]
     ~ pet = "Piecito"
    
-    * "{ai} Jr.!"[]
-    ~ pet = "{ai} Jr!"
+    * (ia) "{ai} Jr.!"[]
+    ~ pet = "{ai} Jr."
 
-- <> proclamé triunfalmente mientras le acariciaba la cabecita. "¿A que te gusta? ¡¿A que sí?!" le pregunté, y ella {criatura:volvió a undular|unduló} su largo cuello, evidentemente encantada. 
+- <> proclamé triunfalmente{ia:, sin poder evitar un cierto placer perverso al pensar en el momento indeterminado del futuro en que el verdadero {ai} leería este diario|mientras le acariciaba la cabecita}. "¿A que te gusta? ¡¿A que sí?!" le pregunté a la criatura, y ella {criatura:volvió a undular|unduló} su largo cuello, evidentemente encantada. 
 
-{buscarvida: "¡Vamos, {pet}, que aún tenemos mucho camino por delante!" exclamé, y ella empezó a trotar alegremente a mi lado como si me conociera de toda la vida.|"Madre mía...", murmuré, incapaz de evitar que se me dibujara una sonrisa ante el evidente deleite de mi nueva amiga, "¿Pero qué voy a hacer yo contigo, eh?" le pregunté con dulzura.}
+{buscarvida: "¡Vamos, {pet}, que aún tenemos mucho camino por delante!" exclamé, y ella empezó a trotar alegremente a mi lado como si me conociera de toda la vida.|Entonces la extraña criatura estornudó sonoramente con tanta fuerza que cayó sobre sus cuartos traseros, dirigiéndome una mirada bobalicona de confusión. "¿Pero qué voy a hacer yo contigo, eh?" murmuré con dulzura.}
 
 * {criatura} -> adoptada
 
@@ -347,7 +348,8 @@ El cantante se puso alerta e interrumpió bruscamente su canción al verme apare
 
 
 
-*(desastre)"¡Vengo en son de paz!", grité[...] desde lejos, decidiendo que lo mejor sería comunicar mis intenciones pacíficas cuanto antes. Sin embargo, mi declaración pareció generar un gran alboroto en el campamento de enfrente, y antes de llegar a la hoguera me salió al paso un hombre desnudo de unos cuarenta años mirándome con recelo y con una piedra en la mano. 
+*(desastre)"¡Vengo en son de paz!", grité[...] desde lejos, convencida que lo mejor sería comunicar mis pacíficas intenciones desde un principio. 
+Sin embargo, mi bienintencionada declaración pareció generar un considerable alboroto en el campamento: se oyeron movimientos apresurados acompañados de un sonido parecido al de una taza haciéndose añicos, y antes de alcanzar la hoguera me salió al paso un hombre desnudo de unos cuarenta años mirándome con recelo y con una piedra en la mano. 
 {nombremascota: {pet} empezó a gruñirle de inmediato, y el hombre no vaciló en lanzarle la piedra en el cuello, que acertó de lleno. Ella profirió un lastimoso gemido y salió disparada en dirección a la espesura con el cuello sangrando, con lo que no me quedó más remedio que}
 **{nombremascota} ... seguirla selva adentro[...]. La encontré horas más tarde escondida entre unos arbustos azulados, el largo cuello enroscado, y gimoteando lastimeramente. 
 "Bueno, pequeñaja..." le murmuré tranquilizadoramente, "parece que nuestro primer contacto no ha ido exactamente como queríamos". 
@@ -372,7 +374,7 @@ Al levantar la cabeza, vi que...
 *** ... tenía el cuerpo atlético y musculoso[...], con manos fuertes y callosas, que en ese momento trenzaban y destrenzaban con nerviosismo unas briznas de hierba sin dejar de observarme recelosamente. 
 *** ... estaba observándome fijamente[...] y en silencio, con una mirada a medio camino entre el recelo y la curiosidad. 
 Nuestras miradas se cruzaron por un instante: tenía los ojos claros y penetrantes, con unas patas de gallo que, a pesar de la tensión del momento, le daban un aspecto casi sonriente. 
-Entonces, tan bruscamente como se había acercado, volvió a levantarse, haciéndome un ademán que interpeté como una invitación a seguirle hacia la hoguera. 
+Entonces, tan bruscamente como se había acercado, volvió a levantarse y me hi un ademán que interpeté como una invitación a seguirle hacia la hoguera. 
 
 **** Eso mismo hice[...], casi sin atreverme a creer mi buena fortuna, consciente que tras aquel tumultoso primer contacto, era probable que no volviera a tener otra oportunidad de acercarme a los nativos.
 Llegamos hasta su campamento, en el que no parecía haber nadie más, que consistía básicamente en una sola construcción rudimentaria al lado del fuego. Era una especie de choza, las paredes echas de ramas y barro, y el techo de hojas secas entretejidas. Sonriendo tranquilizadoramente, -> contactobien
@@ -380,7 +382,7 @@ Llegamos hasta su campamento, en el que no parecía haber nadie más, que consis
 **** Aproveché la oportunidad para escabullirme[...] en dirección a la espesura de la selva; ya había tenido suficientes emociones por un solo día. 
 Pasé la noche envuelta en unas gigantes hojas azuladas que encontré en un claro de la selva, sin poder evitar preguntarme si realmente estaba hecha para una misión como aquella{nombremascota:, y preguntándome dónde habría ido a parar {pet}|.}
 ~ day = day + 1
--> DESPERTAR.selvacabana
+-> DESPERTAR.selvacabanaliada
 
 
 
@@ -404,21 +406,33 @@ Tras un vistazo a mi alrededor, encontré un hueco en el trono de un árbol giga
 
 
 =refugio
-La madera de la vegetación era flexible pero fuerte, y en tres o cuatro horas de recolección y construcción hube terminado mi flamante 
+La madera de la vegetación local era flexible pero fuerte, y en tres o cuatro horas de trabajo hube completado la construcción de mi flamante 
 
-* ... cabaña[...] hecha de troncos y hojas trenzados con lianas. 
+* (cabana)... cabaña[...] escondida hecha de troncos y hojas trenzados con lianas. 
 ~ shelter = "cabaña"
 
-* ... casita en un árbol[...], cuya elevación debería mantenerme a salvo de la mayoría de animales salvajes. 
+* (casita)... casita en un árbol[...], cuya elevación me mantendrá a salvo de la mayoría de animales salvajes, completa con su imprescindible...
 ~ shelter = "casita colgante"
+** ... un tobogán de lianas[...] para poder descender de la casita a toda velocidad en caso de emergencia. 
+** ... trampolín acrobático[...] para, con suerte, lanzarse desde lo alto de la casita hasta la conveniente charca de ranas ubicada en la base del árbol. 
+** ... catapulta[...] de transporte, con la que catapultarse por los aires hasta la gran laguna cercana para emergencias y chapuzones matutinos. 
 
-* (subterranea)... base subterránea[...], con un intrincado sistema de túneles y compuertas camufladas completamente invisibles al ojo desnudo. Ni siquiera los habitantes locales deberían ser capaces de detectar mi presencia con semejante escondite. 
+* (subterranea)... base subterránea[...], completa con su imprescindible sistema de
 ~ shelter = "base subterránea"
 
-- {not subterranea: No sabía cuanto tiempo tardaría en establecer contacto con los nativos, pero, mientras tanto, al menos tendría un lugar donde resguardarme de la lluvia.}
-Habiendo dedicado la mayor parte del día a {nombremascota:jugar con {pet} y a confeccionar|la confecciónde} mi {shelter}, decidí... 
+** ... túneles y compuertas[...] camufladas, incluyendo dos salidas secretas para emergencias.
+** ... mirillas y telescopios[...] secretos para espiar el exterior sin ser vista.
+** ... trampas mortales[...] a prueba de intrusos y fisgones, con sistema de abono orgánico integrado para aprovechar sus cadáveres como fertilizante.
 
-*... que ya había trabajado suficiente[...] por hoy. Lo mejor sería recoger algo de comida, irme a dormir temprano, y tratar de localizar a los nativos al día siguiente. -> DESPERTAR.basebien
+-- <> Ni siquiera los habitantes locales deberían ser capaces de detectar mi presencia con semejante escondite. 
+
+- {not subterranea: No sabía cuanto tiempo tardaría en establecer contacto con los nativos, pero, mientras tanto, al menos tendría un lugar donde resguardarme de la lluvia.}
+Habiendo dedicado la mayor parte del día a {nombremascota:jugar con {pet} y a confeccionar|la confección de} la {shelter}, decidí... 
+
+*... que ya había trabajado bastante[...] por hoy. Lo mejor sería recoger algo de comida, irme a dormir temprano, y tratar de localizar a los nativos al día siguiente.
+Pasé la noche en el esponjoso lecho de musgo que había confeccionado con esmero en el interior de la {shelter}, observando el cielo estrellado {subterranea:a través del periscopio con acceso al exterior que había instalado al lado de mi cama}{casita:desde la atalaya de vigilancia, confeccionada a base de lianas, que había construido en lo alto para poder contemplar las estrellas y rebotar al mismo tiempo.}{cabana:el agujero central en el techo de la cabaña, especialmente diseñado para poder encender hogueras en el interior en los días de lluvia}.
+Lo cierto es que, para ser mi primer día en un planeta alienígena desconocido, parecía que tampoco me las estaba arreglado tan mal. 
+-> DESPERTAR.basebien
 
 *{not nombremascota}... que ya era hora de empezar a explorar[...] los alrededores, y más teniendo en cuenta que todavía quedaban algunas horas de sol.
 
@@ -426,9 +440,13 @@ Habiendo dedicado la mayor parte del día a {nombremascota:jugar con {pet} y a c
 *** [... aunque me tomé la subida con calma...]->calma
 *** [... y al poco rato ya estaba corriendo y brincando...]->atope
 
-** Aún no había explorado los alrededores[...] de mi campamento, y consideré que esta debería ser mi mayor prioridad después de llegar a un mundo desconocido. Pasé varias horas deambulando por la selva y familiarizándome con la flora y la fauna locales, hasta que...  
+** Aún no había explorado los alrededores[...] de mi campamento, a pesar de que en el Manual del Explorador se explicaba claramente que esta debería ser la mayor prioridad de cualquier investigador de mundos alienígenas. 
+Pasé varias horas deambulando por la selva y familiarizándome con la flora y la fauna locales, hasta que...  
 
-*** ... cayó la noche y regresé[...] a mi refugio cargada de frutas exóticas que había recolectado, y sintiéndome cada vez más en casa en aquel extraño planeta desconocido. -> DESPERTAR.basebien
+*** ... cayó la noche y regresé[...] a mi refugio cargada de frutas exóticas que había recolectado durante el día.
+Pasé la noche en el esponjoso lecho de musgo que había confeccionado con esmero en el interior de la {shelter}, observando el cielo estrellado {subterranea:a través del periscopio con acceso al exterior que había instalado al lado de mi cama}{casita:desde la atalaya de vigilancia, confeccionada a base de lianas, que había construido en lo alto para poder contemplar las estrellas y rebotar al mismo tiempo.}{cabana:el agujero central en el techo de la cabaña, especialmente diseñado para poder encender hogueras en el interior en los días de lluvia}.
+Lo cierto es que, para ser mi primer día en un planeta alienígena desconocido, tampoco me las estaba arreglado tan mal. 
+-> DESPERTAR.basebien-> DESPERTAR.basebien
 
 *** [... encontré un rastro prometedor...] -> rastro
 
@@ -441,30 +459,31 @@ Habiendo dedicado la mayor parte del día a {nombremascota:jugar con {pet} y a c
 
 
 =criatura
-Tenía el tamaño de un perro grande, con el pelaje del mismo color entre marrón y violáceo que la tierra y la arcilla de los alrededores, y parecía observar mi charco de vómito con genuina curiosidad, su largo cuello ligeramente inclinado y una oreja más levantada que la otra. 
+Tenía el tamaño de un perro grande, con el pelaje del mismo color entre marrón y violáceo que la tierra y la arcilla de los alrededores, y parecía observar mi charco de vómito con genuino interés, su largo cuello ligeramente inclinado y una oreja más levantada que la otra en un gesto inconfundible de curiosidad. 
 
-* No parecía peligrosa[...], y en cuanto empecé a rascarle la cabeza comenzó a undular su largo cuello en un gesto de claro placer. Era muy consciente de que mi misión consistía en establecer contacto con los nativos de mi especie,
+* No parecía peligrosa[...], y en cuanto empecé a rascarle la cabeza comenzó a undular su largo cuello con evidente placer. Era muy consciente de que mi misión consistía en establecer contacto con los nativos de mi propia especie,
 
-** ... pero, ¿cómo podía resistirme a aquellos ojitos saltones[...?] que me miraban con adoración? Sí, lo confieso, me pasé la mañana jugando con aquella extraña criatura, y al llegar la tarde éramos tan amigas que la idea de separarnos jamás se me habría cruzado por la cabeza. 
+** ... pero, ¿cómo iba a resistirme a aquellos ojitos saltones[...?] que me miraban con adoración? Sí, lo confieso, me pasé la mañana jugando con aquella extraña criatura, y al llegar la tarde éramos tan amigas que la idea de separarnos jamás se me habría cruzado por la cabeza. 
 
-** ... por lo que, muy a mi pesar[...], tuve que dejarle claro a aquella criatura adorable que tenía cosas importantes que hacer. Ella, sin embargo, no pareció darse en absoluto por aludida, y por mucho que lo intenté, después de aquella fatídica caricia en la cabeza ya no volví a conseguir que se despegara de mí en todo el día.
+** ... por lo que, muy a mi pesar[...], tuve que dejarle claro a aquella criatura adorable que tenía cosas importantes que hacer. 
+Ella, sin embargo, no pareció darse por aludida, pues, por mucho que lo intenté, después de aquella fatídica primera caricia en la cabeza ya no volví a conseguir que se despegara de mí en todo el día.
 -- -> nombremascota
--- (adoptada)<> Y, como si quisiera responder a mi pregunta, mi nueva compañera empezó a tirar de mi mano como si tratara de mostrarme algo.  
+-- (adoptada) Como en respuesta a mi pregunta, mi nueva compañera empezó a tirar de mi mano como si quisiera mostrarme algo.  
 
-** Dejé que me guiara al interior de la selva[...], preguntándome adónde me estaría llevando aquella criatura alienígena. 
-A juzgar por su largo cuello debía de ser herbívora, y su docilidad me hizo pensar que probablemente fuera descendiente de algún animal doméstico traído por los primeros colonos, que se habría asilvestrado con el transcurso de los milenios. 
-Cuando ya estaba empezando a perder la fe en que mi guía supiera adónde nos dirigíamos, fuimos a dar en una 
+** Dejé que me guiara al interior de la selva[...], sin tener la menor idea de adónde me estaría llevando aquella criatura alienígena. 
 
-***... inmensa laguna[...] de agua cristalina, donde finalmente comprendí la razón por la que mi amiga había insistido tanto en traerme hasta allí. ¡Había miles de criaturas como ella, y también de otras especies, bebiendo agua y bañándose en la laguna! 
+Cuando ya estaba empezando a perder la fe en que ni siquiera mi guía supiera adónde nos dirigíamos, el camino desembocó en una
 
-----(laguna)**** Mi especialidad no es la biología, pero[...] aún y así me sentí increíblemente afortunada ante aquella oportunidad de observar la fauna de un planeta alienígena antes que nadie. ->laguna
+***... inmensa laguna[...] de agua cristalina, donde finalmente comprendí la razón por la que mi amiga había insistido tanto en traerme hasta allí. ¡Había miles de criaturas como ella, y también de otras especies, bebiendo y bañándose en el agua! 
+
+----(laguna)**** Mi especialidad no es la biología, pero[...], aún y así, me sentí increíblemente afortunada ante aquella oportunidad de observar y convivir con la fauna salvaje de aquel planeta alienígena nunca estudiado. Los pájaros sobrevolaban la laguna perezosamente y todo tipo de anfibios asomaban por las orillas antes de volver a zambullirse, pero, por alguna razón, ninguno de los animales de la laguna parecía competir entre sí, ni tampoco detecté la presencia de ningún carnívoro ni depredador. ->laguna
 
 **** Me pasé el resto del día nadando y jugando[...] con {pet} y el resto de su manada sin ninguna preocupación en el mundo. Es esperanzadora la facilidad con la que seres vivos de especies y planetas distintos pueden establecer contacto y coexistir nada más conocerse, sin nada más que unos pocos elementos de comunicación en común. 
 Cuando me di cuenta que estaba empezando a anochecer, -> manada
 
-**** Me apercaté de la hora por la posición de los soles[...] sobre la laguna. ¡Ya estaba llegando la tarde, y yo seguía en medio de la nada! 
-Traté de indicarle a {pet} que teníamos que despedirnos, pero en cuanto vió que me alejaba de la laguna volvió corriendo hasta mí y se puso a trotar alegremente a mi lado en dirección al claro donde había aterrizado por la mañana. 
-"¿Parece que no voy a librarme de ti tan fácilmente, eh?" le dije con una sonrisa. "Bueno, pues que sepas que tenemos trabajo que hacer...", añadí, y con esas palabras
+**** Me percaté de la hora por la posición de los soles[...] sobre la laguna. ¡Ya estaba llegando la tarde, y yo seguía en medio de la nada! 
+Traté de indicarle a {pet} que teníamos que despedirnos, pero en cuanto vió que me alejaba de la laguna en dirección al claro donde había aterrizado por la mañana, volvió corriendo hasta mí y se puso a trotar de nuevo a mi lado . 
+"¿Parece que no voy a librarme de ti tan fácilmente, eh?" le dije con una sonrisa. "Bueno, pues que sepas que tenemos trabajo que hacer," añadí, y con esas palabras
 
 ***... oscura madriguera[...] que se internaba en las profundidades subterráneas, donde finalmente comprendí la razón por la que mi amiga había insistido tanto en traerme hasta allí. ¡Sus crías la estaban esperando en el interior! 
 
@@ -483,10 +502,10 @@ Por no mencionar, claro está, que no hay nada como dormir entre una manada de s
 Traté de indicarle a {pet} que teníamos que despedirnos, pero en cuanto vió que me alejaba de la laguna volvió corriendo hasta mí y se puso a trotar alegremente a mi lado en dirección al claro donde había aterrizado por la mañana. 
 "¿Parece que no voy a librarme de ti tan fácilmente, eh?" le dije con una sonrisa. "Bueno, pues que sepas que tenemos trabajo que hacer...", añadí, y con esas palabras
 
-** Sabía que no podía pasarme el día jugando[...] con el primer animalito que me encontrase por muy adorable que fuera, con lo que resolví llevarla conmigo mientras me encargaba de mis tareas. 
+** Pero sabía que no podía pasarme el día jugando[...] con el primer animalito que me encontrase, por adorable que fuera, con lo que en lugar de seguirla resolví llevarla conmigo mientras me encargaba de mis tareas. 
 Decidida a hacer algo productivo, 
 
-* Traté de ahuyentarla[...] con gritos y aspavientos, y al final conseguí que aquella extraña criatura se alejara del claro donde acababa de materializarme.
+* Traté de ahuyentarla[...] con gritos y aspavientos exagerados, y, aunque no fue tarea fácil, al final conseguí que aquella extraña criatura se alejara del claro donde acababa de materializarme.
 Decidida a hacer algo productivo, 
 - -> inicio
 
