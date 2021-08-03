@@ -495,7 +495,7 @@ Cuando me di cuenta que estaba empezando a anochecer,
 {pet} parecía decidida a acompañarme, y juntas desandamos el camino hasta el claro y, al llegar allí, nos acurrucamos en una pila de hojas que encontré y nos dormimos al momento después de todo un día de juegos. -> DESPERTAR.basemal
 
 ***** ... decidí quedarme a dormir con {pet} y su familia.[] Al fin y al cabo, a aquellas horas ya no me daría tiempo a construir ninguna clase de refugio, y estaría más a salvo aquí con su familia que en el claro a solas... 
-Por no mencionar, claro está, que no hay nada como dormir entre una manada de suaves pelambreras violáceas. -> DESPERTAR.manada
+Por no mencionar, claro está, que no hay nada como dormir entre una manada de suaves pelambreras violáceas. -> CACERIA.mascota
 
 **** Cuando salí al exterior a tomar aire, me percaté de la hora[...] por la posición de los soles, cuya luz se filtraba entre la vegetación de la selva.
 Traté de indicarle a {pet} que teníamos que despedirnos, pero en cuanto vió que me alejaba de la laguna volvió corriendo hasta mí y se puso a trotar alegremente a mi lado en dirección al claro donde había aterrizado por la mañana. 
@@ -564,10 +564,8 @@ Desperté en mi campamento improvisado en la cima del promontorio
 
 *** una cuerda de escalada[...] trenzando las resistentes lianas de un árbol cercano, 
 
---- <> ¡y me embarqué en mi valeroso descenso hacia las profundidades de Aang!
-# exploracion de las profundidades, estalactitas, etc
-
-
+--- <> ¡y así es como me embarqué en mi valeroso descenso hacia las profundidades de Aang!
+-> cueva
 
 ** No le di mucha importancia[...], pues, al fin y al cabo, podía no conducir a ningún lugar en concreto, -> exterior
 
@@ -575,23 +573,28 @@ Desperté en mi campamento improvisado en la cima del promontorio
 
 ** Tenía que seguir las huellas[...] a toda costa, pues en este momento constituían el camino más directo hacia los nativos. Más aún teniendo en cuenta que el modo como rodeaban mi hoguera indicaba que tenían que haberse originado la noche anterior: ¡alguien había estado en mi campamento mientras dormía y luego se había marchado sin que yo me diera cuenta!
 
-Las huellas me llevaron hasta un caudaloso río que discurría por el interior de la selva, donde desaparecían por completo. 
+Las huellas me llevaron hasta un caudaloso río que discurría por el interior de la selva, tras el cual desaparecían por completo. 
+Lo más probable era que si los nativos tenían alguna especie de poblado este se encontrase a la orilla de un río, pero lo cierto es que no tenía la menor idea de cuál de las dos direcciones. 
 
-*** Remonté el curso del río[...], puesto que # sigue el curso hacia el poblado
+*** (rioarriba) Decidí remontar el curso del río[...] sin pensármelo mucho, y no tardé en comprobar que aparentemente había elegido la dirección correcta. 
+-> POBLADO.rastro
 
-*** Seguí el curso del río[...], puesto que  # llega a la laguna y se encuentra con los humanos cazando
+*** (rioabajo) Decidí seguir el curso del río[...], por ninguna razón en particular.
+Llevaba varias horas siguiendo la vereda del río a través de la selva sin encontrar ninguna señal de presencia humana, y ya estaba empezando a pensar que tal vez había elegido la dirección incorrecta cuando escuché gritos y sonidos estridentes delante mío. ->CACERIA.rastro
 
-*** "{pet}, rastrea!"[] le ordené con entusiasmo a mi compañera a pesar de no tener el menor conocimiento acerca sus capacidades olfativas. Pero lo cierto es que, me hubiera comprendido o no, mi grito pareció propulsarla hacia el interior de la selva, y no me quedó más remedio que seguirla corriendo tan rápido como me lo permitían los matojos y las lianas del camino. # llega a la laguna y se encuentra con los humanos cazando
-
+*** "{pet}, rastrea!"[] le ordené con entusiasmo a mi compañera a pesar de no tener el menor conocimiento acerca sus capacidades olfativas. Pero lo cierto es que, me hubiera comprendido o no, mi grito pareció propulsarla hacia el interior de la selva, y no me quedó más remedio que seguirla corriendo tan rápido como me lo permitían los matojos y las lianas del camino.
+Llevábamos varias horas siguiendo la vereda del río a través de la selva sin encontrar ninguna señal de presencia humana, y ya estaba empezando a pensar que tal vez había hecho mal en confiar en {pet} cuando escuché gritos y sonidos a poca distancia por delante. ->CACERIA.rastro
 
 ** No les di mucha importancia[...], pues, al fin y al cabo, aquellas huellas podían llevar a cualquier parte, 
 
 -- (exterior)<> y yo ya había divisado dos señales inconfundibles de actividad humana la noche anterior. 
 Nada más salir al exterior, respiré una profunda bocanada de fresco aire matutino, desayuné algunas bayas silvestres que había recolectado el día anterior y emprendí el camino hacia
  
-** ... el grupo grande de hogueras[...] que había observado la noche anterior. Menos mal que me había cuidado de recordar su localización, cerca de un remanso del río que discurría por un valle cercano, porque de día no se observaba ningún rastro de las hogueras. # llega al poblado, muchos están de cacería
+** ... el grupo grande de hogueras[...] que había observado la noche anterior. Menos mal que me había cuidado de recordar su localización, cerca de un remanso del río que discurría por un valle cercano, porque de día no se observaba ningún rastro de las hogueras. 
+-> POBLADO.rastro
 
-** ... la hoguera solitaria[...] que había observado la noche anterior. Menos mal que me había cuidado de recordar su localización, cerca de un remanso del río que discurría por un valle cercano, porque de día no se observaba ningún rastro de la hoguera. #llega con el hombre en la cabaña de día
+** ... la hoguera solitaria[...] que había observado la noche anterior. Menos mal que me había cuidado de recordar su localización, cerca de un remanso del río que discurría por un valle cercano, porque de día no se observaba ningún rastro de la hoguera. 
+-> NATIVO.hoguera
 
 - -> END
 
@@ -602,6 +605,11 @@ Nada más salir al exterior, respiré una profunda bocanada de fresco aire matut
 
 
 
+
+=cueva
+Entra en la cueva y vive aventuras
+
+- ->END
 
 
 
@@ -684,7 +692,7 @@ Por el espacio de tres de sus profundas respiraciones permaneció completamente 
 No pude evitar soltar una risita por las cosquillas, pues su lengua era realmente áspera, y en respuesta la criatura emitió un bramido atronador que hizo retumbar las propias montañas y mandó pájaros salvajes volando en todas direcciones. 
 Entonces se puso a cuatro patas, quedando nuestras cabezas a la misma altura,
 
-*** ... y yo me subí a horcajadas[...] 
+*** ... y yo me subí a horcajadas[...] sobre su ancho cuello. Sintiéndome fuera de mi misma, embargada por un impulso irresistible, dejé que aquella misteriosa criatura me llevase adonde quisiera{LLEGADA.nombremascota:, aunque no sin asegurarme de que {pet} nos seguía a una distancia prudente}. -> CACERIA.monstruo
 
 *** ... y supe que había llegado el momento de escapar[...] de allí antes de que me devorase. 
 -> huida
@@ -694,7 +702,11 @@ Entonces se puso a cuatro patas, quedando nuestras cabezas a la misma altura,
 
 - * A lo lejos se escuchaba el sonido de un río[...] 
 
-* Vislumbré la boca de una cueva[...] oscura 
+** [Decidí remontar el curso del río...] ->rioarriba
+
+** [Decidí seguir el curso del río...] ->rioabajo
+
+* Vislumbré la boca de una cueva[...] oscura que se internaba en las profundidades subterraneas, y decidí que ya había tenido suficiente selva por una temporada. Mi mejor opción 
 
 
 - -> END
@@ -708,25 +720,8 @@ Entonces se puso a cuatro patas, quedando nuestras cabezas a la misma altura,
 
 
 
-
-
-
-= manada
-
-duerme con la manada de Piecito. 
--> END
-
-
-
-
-
-
-
-
-
-
-
-
+################################################################
+################################################################
 
 
 
@@ -739,6 +734,8 @@ duerme con la manada de Piecito.
 
 ===CACERIA
 
+=monstruo
+Llega a la cacería a lomos del perezoso gigante
 
 - -> END
 
@@ -748,8 +745,28 @@ duerme con la manada de Piecito.
 
 
 
+=mascota
+Llega a la cacería porque durmió con Piecito
+
+- -> END
 
 
+
+
+
+
+
+=rastro 
+Llega a la cacería siguiendo un rastro
+
+- -> END
+
+
+
+
+
+################################################################
+################################################################
 
 
 
@@ -763,7 +780,8 @@ Iris regresa a la nave.
 
 
 
-
+################################################################
+################################################################
 
 
 
@@ -771,7 +789,8 @@ Iris regresa a la nave.
 
 === POBLADO
 =rastro
-Iris llega al poblado siguiendo un rastro
+A medida que iba avanzando, empecé a detectar numerosas señales de presencia humana en los márgenes del río, incluyendo una antigua hoguera apagada tiempo atrás. 
+Aquellas señales debían pertenecer a un grupo de humanos relativamente numeroso, por lo que el poblado no podía encontrarse muy lejos. 
 - ->END
 
 
@@ -786,7 +805,8 @@ Iris llega al poblado por la ubicación de las hogueras
 
 
 
-
+################################################################
+################################################################
 
 
 
