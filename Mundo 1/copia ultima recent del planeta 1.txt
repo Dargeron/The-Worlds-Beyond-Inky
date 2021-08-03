@@ -655,9 +655,9 @@ Desperté en mitad de la noche con una extraña sensación de alarma. Tras unos 
 
 -- ** Medía más de cuatro metros[...] de altura, y no pude evitar sentirme frágil e insignificante ante aquel coloso alienígena. 
 
-** Era bípeda y peluda[...], con una constitución parecida a la de un perezoso gigante y terrorífico. 
+** Era bípeda y peluda[...], con una constitución parecida a la de un perezoso gigantesco y terrorífico. 
 
-** Sus brazos tenían <i>tres</i> codos[...], pudiendo así doblarse sobre sí mismos tres veces. ¿Quién sabe qué siniestra ventaja evolutiva le aportarían los dos codos adicionales?
+** Sus brazos tenían <i>tres</i> codos[...], pudiendo así doblarse sobre sí mismos una vez, luego una segunda vez, y luego una tercera. ¿Quién sabe qué siniestra ventaja evolutiva le aportarían los dos codos adicionales aparte de poder rascarse toda la espalda?
 
 * ... vislumbré[...] una silueta inmensa, definitivamente no humana, recortándose contra el cielo estrellado. 
 
@@ -667,11 +667,35 @@ Desperté en mitad de la noche con una extraña sensación de alarma. Tras unos 
 
 *** escuché una tercera respiración[...] a mis espaldas, y supe que la criatura no estaba sola. 
 
-** Permanecí inmóbil[...] -> inmobil
+** [Permanecí inmóbil...] -> inmobil
 
-- * Huí presa del pánico[...] 
-* Me quedé paralizada[...] 
-* Alargué la mano[...] hacia la criatura
+- * (huida) Huí presa del pánico[...] en dirección a la espesura de la selva, corriendo tan rápido como me lo permitían las piernas en ninguna dirección particular hasta que finalmente me di cuenta de que nadie me estaba siguiendo. 
+Fue entonces cuando reparé en mis alrededores y me di cuenta de que estaba perfectamente perdida. 
+
+* Me quedé paralizada[...] por el pánico, sin saber como reaccionar. 
+La criatura se acercó lentamente hasta quedar a un palmo de mi cabeza, abrió sus inmensas fauces... y soltó un bramido tan atronador que la piel de mi cara se arrugó y tembló por la fuerza del aire, por no mencionar que quedé cubierta de babas viscosas de pies a cabeza. 
+** Eso pareció dejarla plenamente satisfecha[...], porque, sin pensárselo dos veces, se dió la vuelta y desapareció en el interior de la selva
+No sé cuanto rato seguí allí, con el corazón latiéndome desbocado, las piernas temblorosas y totalmente cubierta de babas, antes de lograr ponerme en marcha de nuevo tras aquel inusual despertar. 
+
+* Alargué la mano[...] hacia la criatura presa de un súbito impulso, sin pensar, y la gigantesca criatura pareció tan sorprendida como yo por aquel gesto. 
+Por el espacio de tres de sus profundas respiraciones permaneció completamente inmóbil, 
+
+** ... y entonces, os lo creáis o no[...], ¡sacó su inmensa lengua amarillenta y me lamió la palma de la mano! 
+No pude evitar soltar una risita por las cosquillas, pues su lengua era realmente áspera, y en respuesta la criatura emitió un bramido atronador que hizo retumbar las propias montañas y mandó pájaros salvajes volando en todas direcciones. 
+Entonces se puso a cuatro patas, quedando nuestras cabezas a la misma altura,
+
+*** ... y yo me subí a horcajadas[...] 
+
+*** ... y supe que había llegado el momento de escapar[...] de allí antes de que me devorase. 
+-> huida
+
+** ... y yo retiré la mano[...] justo a tiempo, pues instantes después la criatura pegó un enorme zarpazo donde había estado mi mano segundos antes, rebanando por la mitad el tronco del árbol donde me estaba apoyando. 
+-> huida
+
+- * A lo lejos se escuchaba el sonido de un río[...] 
+
+* Vislumbré la boca de una cueva[...] oscura 
+
 
 - -> END
 
