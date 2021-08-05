@@ -560,9 +560,9 @@ Desperté en mi campamento improvisado en la cima del promontorio
 
 ** ¡Tenía que explorarlo[!] de inmediato, por supuesto! Confeccioné
 
-*** una antorcha improvisada[...] untando unas plantas locales parecidas a totoras en resina de árbol con el fin de alumbrar la oscuridad del interior, 
+*** (antorcha2) una antorcha improvisada[...] untando unas plantas locales parecidas a totoras en resina de árbol con el fin de alumbrar la oscuridad del interior, 
 
-*** una cuerda de escalada[...] trenzando las resistentes lianas de un árbol cercano, 
+*** (cuerda2) una cuerda de escalada[...] trenzando las resistentes lianas de un árbol cercano, 
 
 --- <> ¡y así es como me embarqué en mi valeroso descenso hacia las profundidades de Aang!
 -> cueva
@@ -576,11 +576,11 @@ Desperté en mi campamento improvisado en la cima del promontorio
 Las huellas me llevaron hasta un caudaloso río que discurría por el interior de la selva, tras el cual desaparecían por completo. 
 Lo más probable era que si los nativos tenían alguna especie de poblado este se encontrase a la orilla de un río, pero lo cierto es que no tenía la menor idea de cuál de las dos direcciones. 
 
-*** (rioarriba) Decidí remontar el curso del río[...] sin pensármelo mucho, y no tardé en comprobar que aparentemente había elegido la dirección correcta. 
+*** (rioarriba) Decidí remontar el curso del río[...] sin pensármelo mucho, y no tardé en comprobar que parecía haber elegido la dirección correcta. 
 -> POBLADO.rastro
 
-*** (rioabajo) Decidí seguir el curso del río[...], por ninguna razón en particular.
-Llevaba varias horas siguiendo la vereda del río a través de la selva sin encontrar ninguna señal de presencia humana, y ya estaba empezando a pensar que tal vez había elegido la dirección incorrecta cuando escuché gritos y sonidos estridentes delante mío. ->CACERIA.rastro
+*** (rioabajo) Decidí descender el curso del río[...], por ninguna razón en particular excepto, quizás, la curiosidad de contemplar el mar de aquel mundo exótico. 
+Tras varias horas siguiendo la vereda del río a través de la selva sin encontrar ninguna señal de presencia humana, empezaba a pensar que había elegido la dirección incorrecta, cuando escuché gritos y sonidos estridentes justo delante mío. ->CACERIA.rastro
 
 *** "{pet}, rastrea!"[] le ordené con entusiasmo a mi compañera a pesar de no tener el menor conocimiento acerca sus capacidades olfativas. Pero lo cierto es que, me hubiera comprendido o no, mi grito pareció propulsarla hacia el interior de la selva, y no me quedó más remedio que seguirla corriendo tan rápido como me lo permitían los matojos y las lianas del camino.
 Llevábamos varias horas siguiendo la vereda del río a través de la selva sin encontrar ninguna señal de presencia humana, y ya estaba empezando a pensar que tal vez había hecho mal en confiar en {pet} cuando escuché gritos y sonidos a poca distancia por delante. ->CACERIA.rastro
@@ -607,7 +607,34 @@ Nada más salir al exterior, respiré una profunda bocanada de fresco aire matut
 
 
 =cueva
-Entra en la cueva y vive aventuras
+El interior de la cueva estaba repleto de estalactitas...
+* ... multicolores y luminosas[...] que, por alguna razón que desconocía, brillaban con una tenue luz propia. {antorcha or antorcha2: Lo cierto es que la luz era tan fuerte que mi antorcha resultaba algo redundante, y no tardé en apagarla, algo decepcionada.}
+
+**
+
+**
+
+* ... repletas de murciélagos[...], o algún animal muy parecido, que no paraban de proferir unos agudos chillidos que, multiplicados varios millares de veces, resultaban francamente ensordecedores. 
+{antorcha or antorcha2: 
+Por suerte, el resplandor de mi antorcha parecía aterrorizar a los murciélagos, que se encogían y retorcían cuando esta los iluminaba.
+-else:
+Lo cierto es que lamenté no haber traído conmigo ninguna fuente de luz, pues, Apenas me había adentrado cien metros en el interior de la cueva cuando percibí un cambio siniestro en los chillidos de los murciélagos, y, como si fueran un solo organismo, se abalanzaron en bandada sobre mí.
+Empecé a zarandear los brazos frenéticamente sobre mi capeza,
+}
+
+** {cuerda or cuerda2} ... adentrándome aún más en el interior de la cueva[...] a pesar de que iba completamente a ciegas. 
+Los murciélagos se volvían cada vez más atrevidos, y pronto empezaron a morder y arañar mis extremidades, e incluso mi cara. 
+***
+*** 
+
+** {cuerda or cuerda2} ... y me zambullí en un riachuelo[...] que discurría por el interior de la cueva. El agua estaba congelada, pero los murciélagos no parecían ser muy amigos del agua, 
+
+** {cuerda or cuerda2} ... mientras corría hacia al exterior de la cueva[...]
+
+** {antorcha or antorcha2} 
+
+** {antorcha or antorcha2} 
+
 
 - ->END
 
@@ -643,7 +670,7 @@ Al ver que había abierto los ojos, el nativo dió media vuelta y desapareció e
 {LLEGADA.promontorio} **  ... tratar de localizar a los otros[...] nativos, el grupo grande de hogueras aglomeradas. Aún recordaba la ubicación aproximada de las hogueras, y ahora que era de día debería resultarme más fácil la travesía hasta allí. 
 -> POBLADO.hoguera
 
-* Tal vez sería mejor regresar a la nave[...], aunque hacerlo implicase volver con las manos vacías. Tal vez sencillamente no estaba hecha para esta misión: la selva, la soledad, el peligro... no podía soportarlo. Lo mejor sería hablar con la Agencia y explicarles que el viaje había sido un fracaso. 
+* Tal vez sería mejor regresar a la nave[...], aunque hacerlo implicase volver con las manos vacías. Tal vez sencillamente no estaba hecha para esto: la selva, la soledad, el peligro... no podía soportarlo. Lo mejor sería hablar con la Agencia y explicarles que el viaje había sido un fracaso. 
 -> NAVE
 
 
@@ -688,7 +715,7 @@ No sé cuanto rato seguí allí, con el corazón latiéndome desbocado, las pier
 * Alargué la mano[...] hacia la criatura presa de un súbito impulso, sin pensar, y la gigantesca criatura pareció tan sorprendida como yo por aquel gesto. 
 Por el espacio de tres de sus profundas respiraciones permaneció completamente inmóbil, 
 
-** ... y entonces, os lo creáis o no[...], ¡sacó su inmensa lengua amarillenta y me lamió la palma de la mano! 
+** ... y entonces, por increíble que parezca[...], ¡sacó su inmensa lengua amarillenta y me lamió la palma de la mano! 
 No pude evitar soltar una risita por las cosquillas, pues su lengua era realmente áspera, y en respuesta la criatura emitió un bramido atronador que hizo retumbar las propias montañas y mandó pájaros salvajes volando en todas direcciones. 
 Entonces se puso a cuatro patas, quedando nuestras cabezas a la misma altura,
 
@@ -700,16 +727,26 @@ Entonces se puso a cuatro patas, quedando nuestras cabezas a la misma altura,
 ** ... y yo retiré la mano[...] justo a tiempo, pues instantes después la criatura pegó un enorme zarpazo donde había estado mi mano segundos antes, rebanando por la mitad el tronco del árbol donde me estaba apoyando. 
 -> huida
 
-- * A lo lejos se escuchaba el sonido de un río[...] 
+- {DESPERTAR.selvacabanaliada: Tal vez habría sabido encontrar el camino hasta la cabaña del nativo que había conocido la noche anterior, pero, dado el rumbo que había tomado nuestro primer encuentro, lo cierto es que parecía una pérdida de energías. Lo mejor sería tratar de hacer contacto con otros nativos... pero, ¿cómo encontrarles?}
+- (eleccion) * A lo lejos se escuchaba el sonido de agua[...] fluyendo, y lo seguí hasta dar con un río caudaloso de agua verdosa que discurría apaciblemente por la selva. 
 
 ** [Decidí remontar el curso del río...] ->rioarriba
 
 ** [Decidí seguir el curso del río...] ->rioabajo
 
-* Vislumbré la boca de una cueva[...] oscura que se internaba en las profundidades subterraneas, y decidí que ya había tenido suficiente selva por una temporada. Mi mejor opción 
+* Vislumbré la boca de una cueva[...] oscura que se internaba en las profundidades subterraneas, y decidí que ya había tenido suficiente selva por una temporada. Tal vez hubiera nativos viviendo en el interior de las cuevas, o algún tipo de pintura o de rastro que me permitiera encontrarles. 
 
+** Demasiado arriesgado[...], decidí. Si algo había aprendido jugando al Minecraft a bordo de mi nave, era que en el interior de la cueva oscura de un mundo desconocido podían habitar toda clase de peligros y criaturas terribles. Sería mejor buscar otra opción menos espeluznante. #nota traduccion: ingles, no citar minecraft pero acabar con "a less Creepy option". Pun intended.
+-> eleccion
 
-- -> END
+** ¡Tenía que explorarla[!], por supuesto! Confeccioné
+
+*** (antorcha) una antorcha improvisada[...] untando unas plantas locales parecidas a totoras en resina de árbol con el fin de alumbrar la oscuridad del interior, 
+
+*** (cuerda) una cuerda de escalada[...] trenzando las resistentes lianas de un árbol cercano, 
+
+--- <> ¡y así es como me embarqué en mi valeroso descenso hacia las profundidades de Aang!
+-> cueva
 
 
 
