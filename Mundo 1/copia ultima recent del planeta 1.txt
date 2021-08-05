@@ -33,7 +33,7 @@ Esta vez juro que a mi retorno a la nave me vengaré como es debido: le...
 
 *** ... volveré a reconfigurar el arquetipo linguístico[...] a "capitán pirata del siglo XVI". Aún se me saltan las lágrimas cuando me acuerdo de la última vez. #poner chiste?
 
-*** ... obligaré a ver episodios de "Friends" en bucle[...] durante tres días. Con su velocidad de procesamiento, calculo que esto equivaldrá a unos cuatro trillones de visionadas de la serie completa. Quiero saborear sus lágrimas. 
+*** ... obligaré a ver episodios de "Friends" en bucle[...] durante tres días. Con su velocidad de procesamiento, calculo que esto equivaldrá a unos cuatro trillones de visionadas de la serie completa. Voy a saborear sus lágrimas. 
 
 **Si esto es lo que comen los nativos[...], ya puedo empezar a prepararme para desarrollar una larga e íntima relación con los problemas digestivos en este viaje. 
 
@@ -587,9 +587,11 @@ Llevábamos varias horas siguiendo la vereda del río a través de la selva sin 
 
 ** No les di mucha importancia[...], pues, al fin y al cabo, aquellas huellas podían llevar a cualquier parte, 
 
--- (exterior)<> y yo ya había divisado dos señales inconfundibles de actividad humana la noche anterior. 
+-- (exterior)<> {not cueva:
+y yo ya había divisado dos señales inconfundibles de actividad humana la noche anterior. 
 Nada más salir al exterior, respiré una profunda bocanada de fresco aire matutino, desayuné algunas bayas silvestres que había recolectado el día anterior y emprendí el camino hacia
- 
+}
+
 ** ... el grupo grande de hogueras[...] que había observado la noche anterior. Menos mal que me había cuidado de recordar su localización, cerca de un remanso del río que discurría por un valle cercano, porque de día no se observaba ningún rastro de las hogueras. 
 -> POBLADO.rastro
 
@@ -607,34 +609,83 @@ Nada más salir al exterior, respiré una profunda bocanada de fresco aire matut
 
 
 =cueva
-El interior de la cueva estaba repleto de estalactitas...
-* ... multicolores y luminosas[...] que, por alguna razón que desconocía, brillaban con una tenue luz propia. {antorcha or antorcha2: Lo cierto es que la luz era tan fuerte que mi antorcha resultaba algo redundante, y no tardé en apagarla, algo decepcionada.}
+El techo de la cueva estaba repleto de estalactitas...
+* ... multicolores[...] que, por alguna razón desconocida, brillaban con una tenue luz propia. {antorcha or antorcha2: Lo cierto es que la luz era tan fuerte que mi antorcha resultaba algo redundante, y no tardé en apagarla, algo decepcionada.}
 
-**
+--(estalactitas) ++\	{!Las luces de las estalactitas fluctuaban...|Las luces de las estalactitas fluctuaban en un patrón melodioso, casi hipnótico.|Seguro de que si las seguía observando...|Seguro de que si las seguía observando conseguiría entender el patrón. Solo necesitaba un rato más...|Cuatro horas más tarde...|Cuatro horas más tarde sabía que estaba cerca del verdadero nirvana, la iluminación. En aquellas luces fluctuantes se escondía la llave, el mapa, el secreto, la síntesis del tejido más esencial del cosmos. Estaba cerca, tan cerca...|... luces...|... luces...|... color...|... color...|... fractales...|... fractales...|... la realidad...|... la realidad...|Y entonces lo vi.|Y entonces lo vi. Lo supe. Toda mi vida pasó delante mío en un instante de revelación y epifanía absoluto: ya no existieron el sufrimiento, el bulling en el colegio, la timidez, los gritos de mis padres, la soledad. Todo era armonía, unidad, el universo entero sintiéndose y probándose a si mismo, un elaborado baile cósmico en el que la única respuesta era reírse de la broma compartida, la existencia, el todo.|Ya no necesitaba buscar.|Ya no necesitaba buscar. Ya no necesitaba explorar. No necesitaba viajar, ni recorrer mundos, ni salvar a nadie, porque ya no necesitaba demostrarle nada a nadie. No necesitaba demostrarme nada a mi misma. Todo estaba bien. Yo estaba bien.} 
+->estalactitas 
 
-**
-
-* ... repletas de murciélagos[...], o algún animal muy parecido, que no paraban de proferir unos agudos chillidos que, multiplicados varios millares de veces, resultaban francamente ensordecedores. 
+**Dejé de prestar atención a las luces[...] y miré a mi alrededor, confundida. Tenía hambre, y un vago recuerdo de... algo.
+En fin, si no me acordaba sería que no era importante. 
+Entonces me miré las manos, y por un momento volví a sentir una sensación de extrañeza, casi vértigo: ¿cuánto tiempo hacía que no me cortaba las uñas? Medían más de un centímetro, y yo las recordaba... ¿recién cortadas? Ja, qué tontería.
+Me encogí de hombros y seguí caminando cueva adentro, dejando atrás aquellas estalactitas de colorines tan feas. #pulir 
+* ... infestadas de murciélagos[...], o algún animal muy parecido, que no paraban de proferir unos agudos chillidos que, multiplicados varios millares de veces, resultaban francamente ensordecedores. 
 {antorcha or antorcha2: 
-Por suerte, el resplandor de mi antorcha parecía aterrorizar a los murciélagos, que se encogían y retorcían cuando esta los iluminaba.
+Por suerte, el resplandor de mi antorcha parecía aterrorizar a los murciélagos, que se encogían y retorcían en cuanto esta los iluminaba.
 -else:
-Lo cierto es que lamenté no haber traído conmigo ninguna fuente de luz, pues, Apenas me había adentrado cien metros en el interior de la cueva cuando percibí un cambio siniestro en los chillidos de los murciélagos, y, como si fueran un solo organismo, se abalanzaron en bandada sobre mí.
-Empecé a zarandear los brazos frenéticamente sobre mi capeza,
+Apenas me había adentrado cien metros en el interior de la cueva cuando percibí un cambio repentino en los chillidos de los murciélagos. Como si fueran un solo organismo, aquellas criaturas espeluznantes se abalanzaron en bandada hacia mí.
+Empecé a zarandear los brazos sobre mi cabeza frenéticamente para ahuyentar a los murciélagos
 }
 
-** {cuerda or cuerda2} ... adentrándome aún más en el interior de la cueva[...] a pesar de que iba completamente a ciegas. 
-Los murciélagos se volvían cada vez más atrevidos, y pronto empezaron a morder y arañar mis extremidades, e incluso mi cara. 
-***
-*** 
+** {cuerda or cuerda2} ... sin dejar de adentrarme[...]en el interior de la cueva a pesar de que me encontraba completamente a ciegas. 
+Los murciélagos se volvían cada vez más atrevidos, hasta el punto que empezaron a morder y arañar mis extremidades, e incluso mi cara. Completamente desesperada, 
+*** ... recurrí al desplazador cuántico[...] implantado en el interior de mi cuerpo, mi último recurso de emergencia. Lo activé
 
-** {cuerda or cuerda2} ... y me zambullí en un riachuelo[...] que discurría por el interior de la cueva. El agua estaba congelada, pero los murciélagos no parecían ser muy amigos del agua, 
+**** ... pronunciado una serie de palabras[...] concretas, 
 
-** {cuerda or cuerda2} ... mientras corría hacia al exterior de la cueva[...]
+**** ... visualizando una camada de hurones[...]
+***** ... hechos enteramente de gominolas[...]
+*****... hechos enteramente de orejas[...]
+*****... en el interior de una chimenea[...],
+***** ... sobre el trampolín de una piscina[...],
+---- <> mi contraseña mental destinada a evitar las activaciones accidentales del desplazador. Unos instantes después, sangrando y magullada, me desplomé en el suelo del interior de la nave. -> NAVE.moribunda
 
-** {antorcha or antorcha2} 
+*** ... seguí corriendo[...] hasta alcanzar el límite de mis fuerzas por la pérdida de sangre, momento en el que perdí la conciencia. 
+-> NAVE.moribunda
 
-** {antorcha or antorcha2} 
+** {cuerda or cuerda2} ... mientras daba media vuelta[...] hacia al exterior de la cueva. 
+La luz del día dispersó de inmediato a mis perseguidores, y yo me desplomé agotada sobre mis temblorosas rodillas, con la respiración agitada y sangrando por varios cortes fruto de sus arañazos. 
+{cimacomun: 
+Después de mi traumática experiencia en el interior de la cueva traté de tranquilizarme todo lo que pude, contemplando el despejado cielo matutino y desayunando algunas bayas que había recolectado el día anterior, hasta que finalmente me sentí preparada para ponerme en marcha hacia
+->exterior
+-else: 
+Estaba claro que mi pequeña incursión a la cueva había sido un error: tendría que encontrar otra estrategia para localizar a los nativos. 
+-> eleccion
+}
 
+** {cuerda or cuerda2} ... y luego me zambullí en un riachuelo[...] cercano que discurría por el interior de la cueva. El agua estaba congelada, pero a los murciélagos no parecía gustarles tampoco, pues en seguida me dejearon en paz y volvieron volando hasta sus estalactitas. 
+Seguí avanzando por el río hasta dejar atrás sus chillidos, momento en el que por fin salí del agua y me dejé caer en el suelo, tiritando. 
+
+*** Tenía que mantenerme en movimiento[...] para volver a entrar en calor, de modo que seguí avanzando por la cueva a pesar del frío y de encontrarme prácticamente a oscuras.   
+*** Encendí una hoguera[...] con musgo seco y algunas raíces que encontré cerca del río, hasta que poco a poco conseguí secarme y volver a entrar en calor. 
+--- Al principio avanzaba tanteando las paredes de la cueva, pero no tardé en llegar a una inmensa caverna abovedada llena de musgo luminiscente que desprendía una agradable luz azulada. 
+
+** {antorcha or antorcha2} Seguí caminando[...] cueva adentro, dejando atrás aquellos extraños murciélagos. 
+
+** {antorcha or antorcha2} Di media vuelta[...] de todos modos, pues lo cierto es que siempre he tenido pánico a los murciélagos, y cada vez veía menos posibilidades de que aquella cueva fuera a llevarme a algún lugar provechoso. 
+{cimacomun: 
+Después de mi traumática experiencia en el interior de la cueva me tranquilicé contemplando el despejado cielo matutino y desayunando algunas bayas que había recolectado el día anterior, hasta que finalmente me sentí preparada para ponerme en marcha hacia
+->exterior
+-else: 
+Estaba claro que mi pequeña incursión a la cueva había sido un error: tendría que encontrar otra estrategia para localizar a los nativos. 
+-> eleccion
+}
+
+- La cueva
+
+* ... se fue ensanchando[...] poco a poco, 
+
+* ... se fue estrechando[...] poco a poco hasta que no me quedó más remedio que avanzar arrastrándome como un gusano. 
+Fue entonces cuando me encallé. 
+Llevaba un rato intentando atravesar un agujero extremadamente estrecho. De algún modo había conseguido atravesarlo hasta la cintura cuando, presa del pánico, descubrí que ya no era capaz de avanzar ni de retroceder. 
+
+--(empujar) ++\ {Empujé hacia adelante...|Empujé hacia adelante, pero nada.|Volví a empujar...|Volví a empujar, pero seguía sin avanzar.|Seguí empujando...|Seguí empujando adelante hasta desgarrarme la piel de la cadera, sin éxito.|Empujé con todas mis fuerzas...|Empujé con todas mis fuerzas con un terrible grito de rabia hasta que finalmente salí disparada del agujero hacia adelante.} 
+{->empujar|->empujar|->empujar|->salir}
+
+---(salir) Ehhh, salí!
+
+++\ {Empujé hacia atrás...|Empujé hacia atrás, pero nada.|Volví a empujar...|Volví a empujar, pero seguía sin retroceder.|Seguí empujando...|Seguí empujando hacia atrás hasta desgarrarme la piel de la cadera, sin éxito.|Empujé con todas mis fuerzas...|Empujé con todas mis fuerzas con un terrible grito de rabia hasta que finalmente salí disparada del agujero hacia adelante.} 
+{->empujar|->empujar|->empujar|->salir} 
 
 - ->END
 
@@ -809,11 +860,19 @@ Llega a la cacería siguiendo un rastro
 
 
 ===NAVE
-Iris regresa a la nave. 
+
+=asalvo
+Iris regresa a la nave sana y salva. 
 
 - -> END
 
 
+
+
+
+=moribunda
+
+- -> END
 
 
 
